@@ -1,0 +1,127 @@
+/* unordered list */
+/* ul{
+   list-style-type: square; 
+} */
+/* ordered list */
+/* ol{
+    list-style-type: decimal-leading-zero;
+} */
+/* ol{
+    list-style-type: lower-alpha;
+} */
+/* images for bullets */
+/* ul{
+    list-style-image: url(./images/red-apple.webp); 
+} */
+/* ul{
+    list-style-image: url(./images/arrow.png);
+} */
+/* list style position */
+/* .illuminations{
+    list-style-position: inside;
+}
+.season{
+    list-style-position: outside;
+} */
+/* lists shorthands */
+/* ul{
+    list-style: inside square; 
+} */
+/* table properties */
+/* table{ 
+     width: 600px;
+    padding: 20px;
+    text-transform: capitalize;
+    border-top: 1px solid red;
+    border-bottom: 1px solid  green;
+    } */
+    /* table, td, th{
+        border: 1px solid red;
+        border-collapse: collapse;
+        text-align: left;
+    } */
+    /* table{
+        background-color: aqua;
+    } */ 
+    /* tr:hover{
+        background-color: wheat;
+        cursor: pointer;
+    } */
+    /* td{
+        padding: 10px;
+    }
+    th{
+        font-weight: bolder;
+        color: blue;
+        background-color: aquamarine;
+    } 
+    .even{
+        background-color: white;
+        color: black;
+    } */
+    /* border on empty cells*/
+    /* td {
+        border: 1px solid #0088dd;
+        padding: 15px;}
+        table {
+        empty-cells: show;} */
+        /* gaps between cells */
+        /* td {
+            background-color: #0088dd;
+            padding: 15px;
+            border: 2px solid #000000;}
+            table {
+            border-spacing: 5px 15px;}
+            table {
+            border-collapse: collapse;} */
+            /* styling forms */
+            #ln{
+                margin-top: 5px;
+            }
+            /* input{
+               font-size: xx-large;
+                background-color: black;
+                color: white; 
+                border: 5px solid red;
+                border-radius: 10px;
+
+            } */
+           /* input:hover{
+                background-color: aqua;
+            }
+input:focus{
+   border: 5px solid red;
+   outline: none;
+} */
+/* #github{
+    margin-top: 5px;
+   background-image: url(./images/github.png);
+   background-repeat: no-repeat;
+   padding-left: 20px;
+} 
+#email{
+    background-image: url(./images/email.png);
+    background-repeat: no-repeat;
+ padding-left: 20px;
+} */
+/* styling  fieldsets */
+/* fieldset {
+    width: 350px;
+    border: 1px solid #dcdcdc;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: right;}
+    legend {
+    background-color: #efefef;
+    border: 1px solid #dcdcdc;
+    border-radius: 10px;
+    padding: 10px 20px;
+    text-align: left;
+    text-transform: uppercase;} */
+    /* cursor styles */
+    #submit-btn:hover{
+        cursor: pointer;
+    }
+            
+        
+
